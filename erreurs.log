@@ -1,0 +1,3 @@
+./bienvenue.cpp: ligne 1: // : est un dossier
+./bienvenue.cpp: ligne 2: erreur de syntaxe près du symbole inattendu « ( »
+./bienvenue.cpp: ligne 2: `int main()'

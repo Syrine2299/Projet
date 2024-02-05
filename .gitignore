@@ -1,0 +1,13 @@
+# Fichiers d'exécution
+*.exe
+*.out
+*.app
+
+# Fichiers objets
+*.o
+*.obj
+
+# Dossiers de compilation
+/bin/
+/obj/
+
